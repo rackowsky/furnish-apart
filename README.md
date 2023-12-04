@@ -1,3 +1,4 @@
+![The project's banner.](https:example.com/)
 # 📌 Furnish Apart
 ### `🛬 Landing pages`
 #### The landing page for Furnish Apart, furniture industry. 🪑
